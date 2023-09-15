@@ -1,0 +1,9 @@
+ip:127.0.0.1:8080
+is_slave:true
+master:127.0.0.1:8081
+<end>
+ip:127.0.0.1:8081
+is_slave:false
+master:none
+<end>
+
